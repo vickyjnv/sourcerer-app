@@ -8,7 +8,7 @@
   <a href="https://github.com/sourcerer-io/sourcerer-app/blob/master/LICENSE.md"><img src=https://img.shields.io/github/license/sourcerer-io/sourcerer-app.svg?colorB=ff0000></a>
 </h1>
 
-A visual profile for software engineers.
+A visual profile for software engineers In which they can see their graphical view of languages and tools which they have worked till now.
 <br>
 
 <p align="center">
